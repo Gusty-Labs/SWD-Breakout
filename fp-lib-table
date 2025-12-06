@@ -1,0 +1,4 @@
+(fp_lib_table
+  (version 7)
+  (lib (name "programmer-swd-footprints")(type "KiCad")(uri "${KIPRJMOD}/programmer-swd-footprints.pretty")(options "")(descr ""))
+)

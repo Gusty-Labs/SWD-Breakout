@@ -1,0 +1,14 @@
+
+production/
+
+programmer-swd-backups/
+
+fabrication-toolkit-options.json
+
+~programmer-swd.kicad_pcb.lck
+
+~programmer-swd.kicad_sch.lck
+
+fp-info-cache
+
+Programmer-Symbols.bak
